@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/indexzero/node-pkginfo.git"
+    "url": "http://github.com/mathieumg/pkginfo-json5.git"
   },
   "keywords": ["info", "tools", "package.json"],
   "devDependencies": {
